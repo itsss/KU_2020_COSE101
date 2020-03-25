@@ -35,7 +35,7 @@
 ### Chapter 6	C의 제어문 루프	 
  - [x] 약수의 합 - 초급
  - [ ] 약수의 합 - 고급
- - [ ] JUMP
+ - [] JUMP
  - [x] Drawing Diamond
  - [ ] Mod - 초급
  - [ ] Mod - 고급
