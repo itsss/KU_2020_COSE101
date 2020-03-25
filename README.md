@@ -52,8 +52,8 @@
  - [ ] 수강신청 연기
  - [ ] 수강신청
  - [ ] 시간을 달리는 공지
- - [ ] Loop Control1 (Snippet)
- - [ ] Loop Control2 (Snippet)
+ - [x] Loop Control1 (Snippet)
+ - [x] Loop Control2 (Snippet)
  	
 ### Chapter 8	문자 입출력과 입력 유효성 검사
 	 	
