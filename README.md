@@ -58,7 +58,7 @@
 ### Chapter 8	문자 입출력과 입력 유효성 검사
 	 	
 ### Chapter 9	함수	 
- - [ ] Stairs1
+ - [x] Stairs1
  - [ ] Stairs2
  - [ ] Stairs3
  - [ ] Fibonacci GCD
