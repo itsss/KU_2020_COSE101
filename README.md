@@ -121,14 +121,14 @@
 ### Chapter 12	저장 클래스, 연계, 메모리 관리	 	
 ### Chapter 13	파일 입출력	 	
 ### Chapter 14	구조체와 그 밖의 데이터형	
- - [ ] **도서관 (Snippet) 	**
+ - [ ] **도서관 (Snippet)**
 
 ### Chapter 15	비트 조작	 
  - [ ] Lights out
- - [ ] Lower Case (Snippet)
- - [ ] Upper Case (Snippet)
- - [ ] Switch Case (Snippet)
- - [ ] 비트연산 (Challenge)
- - [ ] 홀짝
- - [ ] **2의 거듭제곱**
+ - [x] Lower Case (Snippet)
+ - [x] Upper Case (Snippet)
+ - [x] Switch Case (Snippet)
+ - [x] 비트연산 (Challenge)
+ - [x] 홀짝
+ - [x] **2의 거듭제곱**
 	
