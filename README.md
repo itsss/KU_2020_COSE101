@@ -78,12 +78,12 @@
  - [x] Swap (Snippet)
  - [ ] Shortest Path
  - [ ] Shortest Path2 (Challenge)
- - [ ] **Bubble Sort**
- - [ ] **Selection sort**
- - [ ] **Insertion sort**
- - [ ] **Merge sort**
+ - [x] **Bubble Sort**
+ - [x] **Selection sort**
+ - [x] **Insertion sort**
+ - [x] **Merge sort**
  - [ ] **Quick sort**
- - [ ] **Snail**
+ - [x] **Snail**
  - [ ] 개복치마을
  - [ ] Picross
  - [ ] 숫자넣기 - 초급
