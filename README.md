@@ -16,7 +16,7 @@
  - [x] ASCII to Character
  - [x] Character to ASCII
  - [x] Print Format
- - [ ] Mod Equation
+ - [x] Mod Equation
  	
 ### Chapter 5	연산자, 표현식, 문장	
  - [ ] 제곱수의 차
