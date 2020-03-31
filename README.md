@@ -29,7 +29,7 @@
  - [ ] 삼각수 역수의 합
  - [ ] 중국인의 나머지 정리
  - [ ] Calendar
- - [ ] Birthday
+ - [x] Birthday
  - [x] 약수의 갯수 	
 
 ### Chapter 6	C의 제어문 루프	 
