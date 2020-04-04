@@ -19,26 +19,26 @@
  - [x] Mod Equation
  	
 ### Chapter 5	연산자, 표현식, 문장	
- - [ ] 제곱수의 차
+ - [x] 제곱수의 차
  - [x] 원고지
  - [x] 구구단을 외자
  - [x] 3N+1
  - [x] 제곱근 이진탐색
  - [x] 세제곱의 합
- - [ ] Rose
- - [ ] 삼각수 역수의 합
+ - [x] Rose
+ - [x] 삼각수 역수의 합
  - [ ] 중국인의 나머지 정리
- - [ ] Calendar
+ - [x] Calendar
  - [x] Birthday
  - [x] 약수의 갯수 	
 
 ### Chapter 6	C의 제어문 루프	 
  - [x] 약수의 합 - 초급
- - [ ] 약수의 합 - 고급
+ - [x] 약수의 합 - 고급
  - [x] JUMP
  - [x] Drawing Diamond
- - [ ] Mod - 초급
- - [ ] Mod - 고급
+ - [x] Mod - 초급
+ - [x] Mod - 고급
  - [ ] 서로소
  - [ ] 서로소의 합
 	
