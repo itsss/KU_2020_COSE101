@@ -67,7 +67,7 @@
  - [ ] Robber Robber (Challenge)
  - [ ] 주사위놀이
  - [ ] 재귀함수
- - [ ] Mod - 고급
+ - [x] Mod - 고급
  - [ ] 숫자야구
  - [ ] tiles
  - [ ] tiles2	
@@ -101,7 +101,7 @@
  - [ ] 전개도
  - [ ] 동전교환
  - [ ] 가계도
- - [ ] Mod - 고급 	
+ - [x] Mod - 고급 	
 
 ### Chapter 11	문자열과 문자열 함수
  - [ ] **Print Format2**
