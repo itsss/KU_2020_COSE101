@@ -6,9 +6,11 @@
  - [x] Solaire
 
 ### Chapter 3	데이터와 C	
- - [x] Data type
 
 ### Chapter 4	문자열과 입출력 포맷	
+ - [x] Data type
+
+### Chapter 5	연산자, 표현식, 문장	
  - [x] 강의계획서
  - [x] XX선 통학러의 한숨소리
  - [x] 달고나 커피
@@ -17,8 +19,8 @@
  - [x] Character to ASCII
  - [x] Print Format
  - [x] Mod Equation
- 	
-### Chapter 5	연산자, 표현식, 문장	
+
+### Chapter 6	C의 제어문 루프
  - [x] 제곱수의 차
  - [x] 원고지
  - [x] 구구단을 외자
@@ -30,30 +32,28 @@
  - [x] 중국인의 나머지 정리
  - [x] Calendar
  - [x] Birthday
- - [x] 약수의 갯수 	
-
-### Chapter 6	C의 제어문 루프	 
+ - [x] 약수의 갯수 
+ - [x] Drawing Diamond
+	
+### Chapter 7	C의 제어문 분기와 점프	
+ - [x] 쌍둥이 소수
+ - [x] 진법변환
+ - [ ] 디오판토스 방정식
+ - [x] 가까운 소수
+ - [x] 개강 연기
+ - [x] 수강신청 연기
+ - [x] 수강신청
+ - [ ] 시간을 달리는 공지
+ - [x] Loop Control1 (Snippet)
+ - [x] Loop Control2 (Snippet)
  - [x] 약수의 합 - 초급
  - [x] 약수의 합 - 고급
  - [x] JUMP
- - [x] Drawing Diamond
  - [x] Mod - 초급
  - [x] Mod - 고급
  - [x] 서로소
  - [x] 서로소의 합
-	
-### Chapter 7	C의 제어문 분기와 점프	
- - [ ] 격자점
- - [x] 쌍둥이 소수
- - [x] 진법변환
- - [ ] 디오판토스 방정식
- - [ ] 가까운 소수
- - [x] 개강 연기
- - [x] 수강신청 연기
- - [ ] 수강신청
- - [ ] 시간을 달리는 공지
- - [x] Loop Control1 (Snippet)
- - [x] Loop Control2 (Snippet)
+ - [ ] 격자점 - 고급
  	
 ### Chapter 8	문자 입출력과 입력 유효성 검사
 	 	
