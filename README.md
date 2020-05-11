@@ -61,15 +61,15 @@
  - [x] Stairs1
  - [ ] Stairs2
  - [ ] Stairs3
- - [ ] Fibonacci GCD
+ - [x] Fibonacci GCD
  - [ ] Pyramid
  - [ ] Pascal's Triangle
  - [ ] Robber Robber (Challenge)
  - [ ] 주사위놀이
- - [ ] 재귀함수
+ - [x] 재귀함수
  - [x] Mod - 고급
  - [ ] 숫자야구
- - [ ] tiles
+ - [x] tiles
  - [ ] tiles2	
 
 ### Chapter 10	배열과 포인터	
