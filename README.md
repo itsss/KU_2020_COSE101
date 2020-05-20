@@ -63,7 +63,7 @@
  - [ ] Stairs3
  - [x] Fibonacci GCD
  - [ ] Pyramid
- - [ ] Pascal's Triangle
+ - [x] Pascal's Triangle
  - [ ] Robber Robber (Challenge)
  - [ ] 주사위놀이
  - [x] 재귀함수
