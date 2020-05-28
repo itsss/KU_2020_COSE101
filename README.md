@@ -63,13 +63,13 @@
 
 ### Chapter 9	함수	 
  - [x] Stairs1
- - [ ] Stairs2
+ - [ ] Stairs2 (Challenge)
  - [ ] Stairs3
  - [x] Fibonacci GCD
  - [ ] Pyramid
  - [x] Pascal's Triangle
  - [ ] Robber Robber (Challenge)
- - [ ] 주사위놀이
+ - [ ] 주사위놀이 (Challenge)
  - [x] 재귀함수
  - [x] Mod - 고급
  - [ ] 숫자야구
