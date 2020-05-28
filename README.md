@@ -64,7 +64,7 @@
 ### Chapter 9	함수	 
  - [x] Stairs1
  - [ ] Stairs2 (Challenge)
- - [ ] Stairs3
+ - [x] Stairs3
  - [x] Fibonacci GCD
  - [ ] Pyramid
  - [x] Pascal's Triangle
