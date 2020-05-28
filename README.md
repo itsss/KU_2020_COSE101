@@ -66,7 +66,7 @@
  - [ ] Stairs2 (Challenge)
  - [x] Stairs3
  - [x] Fibonacci GCD
- - [ ] Pyramid
+ - [x] Pyramid
  - [x] Pascal's Triangle
  - [ ] Robber Robber (Challenge)
  - [ ] 주사위놀이 (Challenge)
