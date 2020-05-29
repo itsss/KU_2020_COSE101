@@ -43,7 +43,7 @@
  - [x] 개강 연기
  - [x] 수강신청 연기
  - [x] 수강신청
- - [ ] 시간을 달리는 공지
+ - [x] 시간을 달리는 공지
  - [x] Loop Control1 (Snippet)
  - [x] Loop Control2 (Snippet)
  - [x] 약수의 합 - 초급
