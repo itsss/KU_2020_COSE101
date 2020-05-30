@@ -107,7 +107,7 @@
  - [ ] 가계도 (Challenge)
 
 ### Chapter 11	문자열과 문자열 함수
- - [ ] **Print Format2**
+ - [x] **Print Format2**
  - [ ] 돌연변이 (Challenge)
  - [ ] 환전 (Challenge)
  - [ ] Rabbit
