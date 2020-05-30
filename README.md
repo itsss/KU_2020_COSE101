@@ -80,32 +80,31 @@
  - [ ] 슈퍼전파자
  - [ ] 전염병 주식회사 (Challenge)
  - [x] Swap (Snippet)
- - [ ] Shortest Path
+ - [ ] Shortest Path (Challenge)
  - [ ] Shortest Path2 (Challenge)
  - [x] **Bubble Sort**
  - [x] **Selection sort**
  - [x] **Insertion sort**
- - [x] **Merge sort**
- - [ ] **Quick sort**
+ - [x] **Merge sort** (Challenge)
+ - [ ] **Quick sort** (Challenge)
  - [x] **Snail**
  - [ ] 개복치마을
  - [ ] Picross
- - [ ] 숫자넣기 - 초급
- - [ ] 숫자넣기 - 고급
- - [ ] 스타듀밸리 - 초급
- - [ ] 스타듀밸리 - 고급
- - [ ] Square Tiles - 초급
- - [ ] Square Tiles - 고급
+ - [ ] 숫자넣기 
+ - [ ] 숫자넣기 (Challenge)
+ - [ ] 스타듀밸리
+ - [ ] 스타듀밸리 (Challenge)
+ - [ ] Square Tiles
+ - [ ] Square Tiles (Challenge)
  - [ ] 장보기 - 초급
  - [ ] 사다리타기
  - [ ] EXIT
- - [ ] **N-Queen**
+ - [ ] **N-Queen** (Challenge)
  - [ ] Broken N-Queen(Challenge)
- - [ ] Working Dead
- - [ ] 전개도
- - [ ] 동전교환
- - [ ] 가계도
- - [x] Mod - 고급 	
+ - [ ] Working Dead (Challenge)
+ - [ ] 전개도 (Challenge)
+ - [ ] 동전교환 (Challenge)
+ - [ ] 가계도 (Challenge)
 
 ### Chapter 11	문자열과 문자열 함수
  - [ ] **Print Format2**
