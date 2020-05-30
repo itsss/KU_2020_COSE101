@@ -108,17 +108,17 @@
 
 ### Chapter 11	문자열과 문자열 함수
  - [ ] **Print Format2**
- - [ ] 돌연변이
- - [ ] 환전
- - [ ] Game Clothing
+ - [ ] 돌연변이 (Challenge)
+ - [ ] 환전 (Challenge)
+ - [ ] Rabbit
  - [ ] Turtle Command
- - [ ] 염기서열 분석
- - [ ] 아버지가방에들어가신다
- - [ ] 큰 수 곱하기 큰 수
- - [ ] Blind - 초급
- - [ ] Blind - 고급
+ - [ ] 염기서열 분석 (Challenge)
+ - [ ] 아버지가방에들어가신다 (Challenge)
+ - [ ] 큰 수 곱하기 큰 수 (Challenge)
+ - [ ] Blind
+ - [ ] Blind (Challenge)
  - [ ] 변수명
- - [ ] 아스키아트
+ - [ ] 아스키아트 (Challenge)
  - [ ] 사전 정렬
 	 	
 ### Chapter 12	저장 클래스, 연계, 메모리 관리	 	
@@ -127,7 +127,7 @@
  - [x] **도서관 (Snippet)**
 
 ### Chapter 15	비트 조작	 
- - [ ] Lights out
+ - [ ] Lights out (Challenge)
  - [x] Lower Case (Snippet)
  - [x] Upper Case (Snippet)
  - [x] Switch Case (Snippet)
