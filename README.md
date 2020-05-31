@@ -77,7 +77,7 @@
  - [x] tiles2	
 
 ### Chapter 10	배열과 포인터	
- - [ ] 슈퍼전파자
+ - [x] 슈퍼전파자
  - [ ] 전염병 주식회사 (Challenge)
  - [x] Swap (Snippet)
  - [ ] Shortest Path (Challenge)
