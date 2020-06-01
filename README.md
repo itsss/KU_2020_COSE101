@@ -88,9 +88,9 @@
  - [x] **Merge sort** (Challenge)
  - [ ] **Quick sort** (Challenge)
  - [x] **Snail**
- - [ ] 개복치마을
- - [ ] Picross
- - [ ] 숫자넣기 
+ - [x] 개복치마을
+ - [x] Picross
+ - [x] 숫자넣기 
  - [ ] 숫자넣기 (Challenge)
  - [ ] 스타듀밸리
  - [ ] 스타듀밸리 (Challenge)
