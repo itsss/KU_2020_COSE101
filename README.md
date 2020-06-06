@@ -92,11 +92,11 @@
  - [x] Picross
  - [x] 숫자넣기 
  - [ ] 숫자넣기 (Challenge)
- - [ ] 스타듀밸리
+ - [x] 스타듀밸리
  - [ ] 스타듀밸리 (Challenge)
- - [ ] Square Tiles
+ - [x] Square Tiles
  - [ ] Square Tiles (Challenge)
- - [ ] 장보기 - 초급
+ - [x] 장보기
  - [ ] 사다리타기
  - [ ] EXIT
  - [ ] **N-Queen** (Challenge)
