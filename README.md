@@ -97,8 +97,8 @@
  - [x] Square Tiles
  - [ ] Square Tiles (Challenge)
  - [x] 장보기
- - [ ] 사다리타기
- - [ ] EXIT
+ - [x] 사다리타기
+ - [x] EXIT
  - [ ] **N-Queen** (Challenge)
  - [ ] Broken N-Queen(Challenge)
  - [ ] Working Dead (Challenge)
