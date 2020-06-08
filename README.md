@@ -110,7 +110,7 @@
  - [x] **Print Format2**
  - [ ] 돌연변이 (Challenge)
  - [ ] 환전 (Challenge)
- - [ ] Rabbit
+ - [x] Rabbit
  - [ ] Turtle Command
  - [ ] 염기서열 분석 (Challenge)
  - [ ] 아버지가방에들어가신다 (Challenge)
