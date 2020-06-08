@@ -115,7 +115,7 @@
  - [ ] 염기서열 분석 (Challenge)
  - [ ] 아버지가방에들어가신다 (Challenge)
  - [ ] 큰 수 곱하기 큰 수 (Challenge)
- - [ ] Blind
+ - [x] Blind
  - [ ] Blind (Challenge)
  - [ ] 변수명
  - [ ] 아스키아트 (Challenge)
