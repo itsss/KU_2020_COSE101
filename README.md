@@ -117,9 +117,9 @@
  - [ ] 큰 수 곱하기 큰 수 (Challenge)
  - [x] Blind
  - [ ] Blind (Challenge)
- - [ ] 변수명
+ - [x] 변수명
  - [ ] 아스키아트 (Challenge)
- - [ ] 사전 정렬
+ - [x] 사전 정렬
 	 	
 ### Chapter 12	저장 클래스, 연계, 메모리 관리	 	
 ### Chapter 13	파일 입출력	 	
