@@ -63,13 +63,10 @@
 
 ### Chapter 9	함수	 
  - [x] Stairs1
- - [ ] Stairs2 (Challenge)
  - [x] Stairs3
  - [x] Fibonacci GCD
  - [x] Pyramid
  - [x] Pascal's Triangle
- - [ ] Robber Robber (Challenge)
- - [ ] 주사위놀이 (Challenge)
  - [x] 재귀함수
  - [x] 연복리예금
  - [x] 숫자야구
@@ -78,47 +75,27 @@
 
 ### Chapter 10	배열과 포인터	
  - [x] 슈퍼전파자
- - [ ] 전염병 주식회사 (Challenge)
  - [x] Swap (Snippet)
- - [ ] Shortest Path (Challenge)
- - [ ] Shortest Path2 (Challenge)
  - [x] **Bubble Sort**
  - [x] **Selection sort**
  - [x] **Insertion sort**
  - [x] **Merge sort** (Challenge)
- - [ ] **Quick sort** (Challenge)
  - [x] **Snail**
  - [x] 개복치마을
  - [x] Picross
  - [x] 숫자넣기 
- - [ ] 숫자넣기 (Challenge)
  - [x] 스타듀밸리
- - [ ] 스타듀밸리 (Challenge)
  - [x] Square Tiles
- - [ ] Square Tiles (Challenge)
  - [x] 장보기
  - [x] 사다리타기
  - [x] EXIT
- - [ ] **N-Queen** (Challenge)
- - [ ] Broken N-Queen(Challenge)
- - [ ] Working Dead (Challenge)
- - [ ] 전개도 (Challenge)
- - [ ] 동전교환 (Challenge)
- - [ ] 가계도 (Challenge)
 
 ### Chapter 11	문자열과 문자열 함수
  - [x] **Print Format2**
- - [ ] 돌연변이 (Challenge)
- - [ ] 환전 (Challenge)
  - [x] Rabbit
  - [x] Turtle Command
- - [ ] 염기서열 분석 (Challenge)
- - [ ] 아버지가방에들어가신다 (Challenge)
- - [ ] 큰 수 곱하기 큰 수 (Challenge)
  - [x] Blind
- - [ ] Blind (Challenge)
  - [x] 변수명
- - [ ] 아스키아트 (Challenge)
  - [x] 사전 정렬
 	 	
 ### Chapter 12	저장 클래스, 연계, 메모리 관리	 	
@@ -127,7 +104,6 @@
  - [x] **도서관 (Snippet)**
 
 ### Chapter 15	비트 조작	 
- - [ ] Lights out (Challenge)
  - [x] Lower Case (Snippet)
  - [x] Upper Case (Snippet)
  - [x] Switch Case (Snippet)
