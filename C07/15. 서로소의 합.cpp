@@ -1,30 +1,3 @@
-//DESCRIPTION
-//두 수의 최대공약수가 1인 것을 서로소라고 한다.
-//
-//1이상 n이하의 수 중 n과 서로소인 정수의 갯수를 구해보자.
-//
-//INPUT
-//Line 1: 입력의 갯수 N
-//
-//Line 2~N+1: 자연수 n
-//
-//OUTPUT
-//1~N: n과 서로소면서 n을 넘지 않는 양의 정수 갯수를 출력한다.
-//
-//SAMPLE INPUT
-//3
-//24
-//36
-//47
-//
-//SAMPLE OUTPUT
-//8
-//12
-//46
-//
-//HINT
-//만약 TLE가 발생한다면 오일러 파이 함수에 대해 알아보자.
-
 #include <stdio.h>
 
 int arr[100001];
@@ -56,8 +29,10 @@ int main() {
     for(int i = 0; i < N; i++) {
         int n;
         long long int ret=1;
+        long long int kep=0;
         
         scanf("%d", &n);
+        kep = n; // 기존의 N 값을 저장
         
         for(int j = 0; ; j++) { // 오일러 피 함수 2
             long long int prime = 1;
@@ -70,6 +45,6 @@ int main() {
             }
             if(n == 1) break;
         }
-        printf("%lld\n", ret);
+        printf("%lld\n", ret/2*kep); // 구한 서로소 정수의 개수를 2로 나누고, n을 곱하면 서로소의 합
     }
 }

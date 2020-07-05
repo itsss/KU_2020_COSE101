@@ -69,7 +69,6 @@
  - [x] Pascal's Triangle
  - [x] 재귀함수
  - [x] 연복리예금
- - [x] 숫자야구
  - [x] tiles
  - [x] tiles2	
 
@@ -91,7 +90,6 @@
  - [x] EXIT
 
 ### Chapter 11	문자열과 문자열 함수
- - [x] **Print Format2**
  - [x] Rabbit
  - [x] Turtle Command
  - [x] Blind

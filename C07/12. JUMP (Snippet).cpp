@@ -1,0 +1,1 @@
+for(int i = a; i < b; i++) if(i%n==0)

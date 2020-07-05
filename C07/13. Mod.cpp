@@ -1,24 +1,3 @@
-//DESCRIPTION
-//A를 n번 곱한 값을 B로 나눈 나머지를 구해보자.
-//
-//INPUT
-//Line 1: 입력 갯수 N (1≤N≤10000)
-//
-//Line 2~N+1: A, n, B가 공백으로 구분되어 입력된다. (1 ≤ A,n,B ≤ 1000)
-//
-//OUTPUT
-//* Line 1~N : A를 n번 곱한 값을 B로 나눈 나머지를 출력한다.
-//
-//SAMPLE INPUT
-//1
-//2 3 5
-//
-//SAMPLE OUTPUT
-//3
-//
-//HINT
-//Overflow를 조심하세요!
-
 #include <stdio.h>
 #include <math.h>
  
@@ -54,4 +33,3 @@ int main()
         printf("%lld\n", res);
     }
 }
-
